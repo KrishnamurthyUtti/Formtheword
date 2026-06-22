@@ -1,5 +1,5 @@
 
-#s=input("Enter the string:")#
+#s=input("Enter the string:")
 s="ww:ii:pp:rr:oo"
 #01234567
 #s="zx:za:ee"
